@@ -29,4 +29,4 @@ Das Repository basiert grundlegend auf den veröffentlichten Informationen und C
 
 [Offizielles Wiki von Seed Studio](http://wiki.seeedstudio.com/Grove-I2C_UV_Sensor-VEML6070/)
 
-[Materialkoffer von Make Your School](https://www.makeyourschool.de/material/uv-lichtsensor/)
+[Materialkoffer von *Make Your School*](https://www.makeyourschool.de/material/uv-lichtsensor/)
